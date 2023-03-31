@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.button {
+  background-color: azure;
+  border-radius: 10px;
+  color: rgb(2, 2, 37);
+  padding: 8px;
+}

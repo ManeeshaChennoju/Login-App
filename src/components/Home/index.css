@@ -1,0 +1,38 @@
+.Home_container {
+  background-color: whitesmoke;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 55px;
+}
+
+.container {
+  background-image: linear-gradient(
+    rgb(42, 42, 77),
+    rgb(81, 81, 110),
+    rgb(211, 211, 245)
+  );
+  height: 60vh;
+  width: 500px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+.heading {
+  color: whitesmoke;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.button {
+  background-color: azure;
+  border-radius: 10px;
+  color: rgb(2, 2, 37);
+  padding: 8px;
+}
